@@ -1,0 +1,29 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Новости",360° Подмосковье
+udp://@239.255.0.39:5500
+#EXTINF:-1 group-title="Новости",BBC World News
+udp://@239.255.0.41:5500
+#EXTINF:-1 group-title="Новости",DWTV
+udp://@239.255.0.24:5500
+#EXTINF:-1 group-title="Новости",Euronews
+udp://@239.255.0.28:5500
+#EXTINF:-1 group-title="Новости",France 24
+udp://@239.255.0.128:5500
+#EXTINF:-1 group-title="Новости",Life (HD)
+udp://@239.255.0.81:5500
+#EXTINF:-1 group-title="Новости",Russia Today HD
+udp://@239.255.0.206:5500
+#EXTINF:-1 group-title="Новости",Дождь
+udp://@239.255.0.137:5500
+#EXTINF:-1 group-title="Новости",Евроновости
+udp://@239.255.0.131:5500
+#EXTINF:-1 group-title="Новости",Мир 24
+udp://@239.255.0.200:5500
+#EXTINF:-1 group-title="Новости",Москва 24
+udp://@239.255.0.175:5500
+#EXTINF:-1 group-title="Новости",РБК-ТВ
+udp://@239.255.0.64:5500
+#EXTINF:-1 group-title="Новости",Телеканал Совета Федерации
+udp://@239.255.0.72:5500
+#EXTINF:-1,Россия 24
+udp://@239.255.2.109:5500

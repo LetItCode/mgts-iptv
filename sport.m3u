@@ -1,0 +1,37 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Спорт",Eurosport 1 HD
+udp://@239.255.0.7:5500
+#EXTINF:-1 group-title="Спорт",Eurosport 2 HD
+udp://@239.255.0.222:5500
+#EXTINF:-1 group-title="Спорт",Eurosport News
+udp://@239.255.0.20:5500
+#EXTINF:-1 group-title="Спорт",myZen.tv
+udp://@239.255.0.122:5500
+#EXTINF:-1 group-title="Спорт",Viasat Golf
+udp://@239.255.0.245:5500
+#EXTINF:-1 group-title="Спорт",Viasat Sport HD
+udp://@239.255.0.168:5500
+#EXTINF:-1 group-title="Спорт",Боец
+udp://@239.255.0.228:5500
+#EXTINF:-1 group-title="Спорт",Бокс ТВ
+udp://@239.255.0.199:5500
+#EXTINF:-1 group-title="Спорт",КХЛ HD
+udp://@239.255.0.123:5500
+#EXTINF:-1 group-title="Спорт",Матч ТВ
+udp://@239.255.0.156:5500
+#EXTINF:-1 group-title="Спорт",Матч! Арена HD
+udp://@239.255.0.155:5500
+#EXTINF:-1 group-title="Спорт",Матч! Игра HD
+udp://@239.255.0.159:5500
+#EXTINF:-1 group-title="Спорт",Матч! Наш Спорт
+udp://@239.255.0.238:5500
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 1 HD
+udp://@239.255.0.125:5500
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 2 HD
+udp://@239.255.0.252:5500
+#EXTINF:-1 group-title="Спорт",Матч! Футбол 3 HD
+udp://@239.255.0.253:5500
+#EXTINF:-1 group-title="Спорт",Наш футбол
+udp://@239.255.0.25:5500
+#EXTINF:-1 group-title="Спорт",Футбол телеканал
+udp://@239.255.0.230:5500

@@ -1,0 +1,45 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Музыка",Bridge TV
+udp://@239.255.0.211:5500
+#EXTINF:-1 group-title="Музыка",Dange TV
+udp://@239.255.0.201:5500
+#EXTINF:-1 group-title="Музыка",Europa Plus TV
+udp://@239.255.0.239:5500
+#EXTINF:-1 group-title="Музыка",MCM Top
+udp://@239.255.0.33:5500
+#EXTINF:-1 group-title="Музыка",Mezzo
+udp://@239.255.0.34:5500
+#EXTINF:-1 group-title="Музыка",Mezzo Live HD
+udp://@239.255.0.127:5500
+#EXTINF:-1 group-title="Музыка",MTV
+udp://@239.255.0.8:5500
+#EXTINF:-1 group-title="Музыка",MTV Dance
+udp://@239.255.0.190:5500
+#EXTINF:-1 group-title="Музыка",MTV Hits
+udp://@239.255.0.79:5500
+#EXTINF:-1 group-title="Музыка",MTV Live HD
+udp://@239.255.0.163:5500
+#EXTINF:-1 group-title="Музыка",MTV Rocks
+udp://@239.255.0.76:5500
+#EXTINF:-1 group-title="Музыка",MUSICBOX
+udp://@239.255.0.60:5500
+#EXTINF:-1 group-title="Музыка",RU.TV
+udp://@239.255.0.111:5500
+#EXTINF:-1 group-title="Музыка",RUSONG TV
+udp://@239.255.0.232:5500
+#EXTINF:-1 group-title="Музыка",RUSSIAN MUSICBOX
+udp://@239.255.0.37:5500
+#EXTINF:-1 group-title="Музыка",TOPSONG TV
+udp://@239.255.0.240:5500
+#EXTINF:-1 group-title="Музыка",VH1
+udp://@239.255.0.45:5500
+#EXTINF:-1 group-title="Музыка",VH1 Classic
+udp://@239.255.0.78:5500
+#EXTINF:-1 group-title="Музыка",Ля-минор
+udp://@239.255.0.233:5500
+#EXTINF:-1 group-title="Музыка",Муз ТВ
+udp://@239.255.0.46:5500
+#EXTINF:-1 group-title="Музыка",Музыка Первого
+udp://@239.255.0.136:5500
+#EXTINF:-1 group-title="Музыка",ТНТ Музыка
+udp://@239.255.0.66:5500

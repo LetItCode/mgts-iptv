@@ -1,0 +1,79 @@
+﻿#EXTM3U
+#EXTINF:0, Discovery Science HD
+#EXTSIZE: Big
+udp://@239.255.0.178:5500
+#EXTINF:0, Travel + Adventure HD
+#EXTSIZE: Big
+udp://@239.255.0.177:5500
+#EXTINF:0, Animal Planet HD
+#EXTSIZE: Medium
+udp://@239.255.0.161:5500
+#EXTINF:0, National Geographic HD
+#EXTSIZE: Medium
+udp://@239.255.0.197:5500
+#EXTINF:0, Бобер
+udp://@239.255.0.149:5500
+#EXTINF:0, 24 DOC
+udp://@239.255.0.133:5500
+#EXTINF:0, 365 дней
+udp://@239.255.0.134:5500
+#EXTINF:0, Da Vinci Learning
+udp://@239.255.0.44:5500
+#EXTINF:0, Discovery HD
+udp://@239.255.0.132:5500
+#EXTINF:0, History
+udp://@239.255.0.105:5500
+#EXTINF:0, Нано-ТВ
+udp://@239.255.0.143:5500
+#EXTINF:0, Nat Geo Wild HD
+udp://@239.255.0.198:5500
+#EXTINF:0, RTG HD
+udp://@239.255.0.191:5500
+#EXTINF:0, TLC HD
+udp://@239.255.0.171:5500
+#EXTINF:0, Viasat Explore
+udp://@239.255.0.99:5500
+#EXTINF:0, Viasat History HD
+udp://@239.255.0.84:5500
+#EXTINF:0, Viasat Nature HD
+udp://@239.255.0.186:5500
+#EXTINF:0, WBC HD
+udp://@239.255.0.108:5500
+#EXTINF:0, Zee TV
+udp://@239.255.0.220:5500
+#EXTINF:0, Авто 24 HD
+udp://@239.255.0.250:5500
+#EXTINF:0, Авто Плюс
+udp://@239.255.0.173:5500
+#EXTINF:0, Вопросы и ответы (СТРИМ ТВ)
+udp://@239.255.0.19:5500
+#EXTINF:0, Время
+udp://@239.255.0.135:5500
+#EXTINF:0, Домашние животные (СТРИМ ТВ)
+udp://@239.255.0.15:5500
+#EXTINF:0, ЕГЭ-ТВ
+udp://@239.255.0.26:5500
+#EXTINF:0, История
+udp://@239.255.0.209:5500
+#EXTINF:0, Моя планета
+udp://@239.255.0.73:5500
+#EXTINF:0, Наука 2.0
+udp://@239.255.0.140:5500
+#EXTINF:0, Оружие
+udp://@239.255.0.237:5500
+#EXTINF:0, Просвещение
+udp://@239.255.0.174:5500
+#EXTINF:0, Психология 21 (СТРИМ ТВ)
+udp://@239.255.0.16:5500
+#EXTINF:0, Совершенно секретно
+udp://@239.255.0.217:5500
+#EXTINF:0, Т24
+udp://@239.255.0.51:5500
+#EXTINF:0, Театр ТВ
+udp://@239.255.0.154:5500
+#EXTINF:0, Теледом
+udp://@239.255.0.205:5500
+#EXTINF:0, Успех
+udp://@239.255.0.144:5500
+#EXTINF:0,English Club
+udp://@239.255.2.83:5500

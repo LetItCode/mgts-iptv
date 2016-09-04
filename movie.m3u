@@ -1,0 +1,90 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="Кино",Amedia 1
+udp://@239.255.0.213:5500
+#EXTINF:-1 group-title="Кино",Amedia 2
+udp://@239.255.0.216:5500
+#EXTINF:-1 group-title="Кино",Amedia Hit HD
+#EXTSIZE: Big
+udp://@239.255.0.6:5500
+#EXTINF:-1 group-title="Кино",Amedia Premium HD
+#EXTSIZE: Big
+udp://@239.255.0.247:5500
+#EXTINF:-1 group-title="Кино",AMC
+#EXTSIZE: Big
+udp://@239.255.0.74:5500
+#EXTINF:-1 group-title="Кино",HD Кино
+#EXTSIZE: Medium
+udp://@239.255.0.3:5500
+#EXTINF:-1 group-title="Кино",Fox HD
+#EXTSIZE: Big
+udp://@239.255.0.196:5500
+#EXTINF:-1 group-title="Кино",Fox Live HD
+#EXTSIZE: Big
+udp://@239.255.0.195:5500
+#EXTINF:-1 group-title="Кино",MGM HD
+#EXTSIZE: Big
+udp://@239.255.0.160:5500
+#EXTINF:-1 group-title="Кино",Bollywood HD
+udp://@239.255.0.241:5500
+#EXTINF:-1 group-title="Кино",SET HD
+udp://@239.255.0.158:5500
+#EXTINF:-1 group-title="Кино",Sony Sci-Fi
+udp://@239.255.0.21:5500
+#EXTINF:-1 group-title="Кино",TV1000
+udp://@239.255.0.82:5500
+#EXTINF:-1 group-title="Кино",TV1000 Action
+udp://@239.255.0.231:5500
+#EXTINF:-1 group-title="Кино",TV1000 Comedy HD
+udp://@239.255.0.189:5500
+#EXTINF:-1 group-title="Кино",TV1000 Megahit HD
+udp://@239.255.0.188:5500
+#EXTINF:-1 group-title="Кино",TV1000 Premium HD
+udp://@239.255.0.187:5500
+#EXTINF:-1 group-title="Кино",TV1000 Русское кино
+udp://@239.255.0.87:5500
+#EXTINF:-1 group-title="Кино",Дом кино
+udp://@239.255.0.113:5500
+#EXTINF:-1 group-title="Кино",Дом кино Премиум
+udp://@239.255.0.70:5500
+#EXTINF:-1 group-title="Кино",Еврокино
+udp://@239.255.0.88:5500
+#EXTINF:-1 group-title="Кино",Иллюзион+
+udp://@239.255.0.71:5500
+#EXTINF:-1 group-title="Кино",Индия
+udp://@239.255.0.167:5500
+#EXTINF:-1 group-title="Кино",Кино Плюс
+udp://@239.255.0.243:5500
+#EXTINF:-1 group-title="Кино",Кино ТВ
+udp://@239.255.0.234:5500
+#EXTINF:-1 group-title="Кино",Киноклуб
+udp://@239.255.0.146:5500
+#EXTINF:-1 group-title="Кино",Кинохит
+udp://@239.255.0.29:5500
+#EXTINF:-1 group-title="Кино",Комедия
+udp://@239.255.0.152:5500
+#EXTINF:-1 group-title="Кино",Много ТВ
+udp://@239.255.0.139:5500
+#EXTINF:-1 group-title="Кино",Мужское кино
+udp://@239.255.0.224:5500
+#EXTINF:-1 group-title="Кино",НСТ
+udp://@239.255.0.107:5500
+#EXTINF:-1 group-title="Кино",Наше Тв
+udp://@239.255.0.142:5500
+#EXTINF:-1 group-title="Кино",Наше кино
+udp://@239.255.0.153:5500
+#EXTINF:-1 group-title="Кино",Наше новое кино
+udp://@239.255.0.244:5500
+#EXTINF:-1 group-title="Кино",Премьера
+udp://@239.255.0.147:5500
+#EXTINF:-1 group-title="Кино",Ретро ТВ (СТРИМ ТВ)
+udp://@239.255.0.10:5500
+#EXTINF:-1 group-title="Кино",Русский Бестселлер
+udp://@239.255.0.214:5500
+#EXTINF:-1 group-title="Кино",Русский Иллюзион
+udp://@239.255.0.53:5500
+#EXTINF:-1 group-title="Кино",Русский роман
+udp://@239.255.0.180:5500
+#EXTINF:-1 group-title="Кино",Точка ТВ
+udp://@239.255.0.4:5500
+#EXTINF:-1 group-title="Кино",Феникс+Кино
+udp://@239.255.0.236:5500

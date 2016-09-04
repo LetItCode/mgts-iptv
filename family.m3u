@@ -1,0 +1,13 @@
+﻿#EXTM3U
+#EXTINF:-1,Домашний
+udp://@239.255.2.63:5500
+#EXTINF:-1 group-title="Семейные",Shop 24
+udp://@239.255.0.110:5500
+#EXTINF:-1 group-title="Семейные",Shopping live
+udp://@239.255.0.157:5500
+#EXTINF:-1 group-title="Семейные",Мама
+udp://@239.255.0.96:5500
+#EXTINF:-1 group-title="Семейные",СемьЯ
+udp://@239.255.0.166:5500
+#EXTINF:-1 group-title="Семейные",Телекафе
+udp://@239.255.0.223:5500

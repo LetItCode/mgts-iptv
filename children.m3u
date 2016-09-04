@@ -1,0 +1,39 @@
+﻿#EXTM3U
+#EXTINF:0, 2x2
+#EXTSIZE: Big
+#EXTBG: #F9A825
+udp://@239.255.2.115:5500
+#EXTINF:0, Cartoon Network
+#EXTSIZE: Medium
+#EXTBG: #7B1FA2
+udp://@239.255.0.106:5500
+#EXTINF:0, Nickelodeon HD
+#EXTSIZE: Medium
+#EXTBG: #00796B
+udp://@239.255.0.162:5500
+#EXTINF:0, Baby TV
+udp://@239.255.0.254:5500
+#EXTINF:0, Gulli
+udp://@239.255.0.242:5500
+#EXTINF:0, JimJam
+udp://@239.255.0.31:5500
+#EXTINF:0, Nick Jr.
+udp://@239.255.0.212:5500
+#EXTINF:0, TiJi
+udp://@239.255.0.145:5500
+#EXTINF:0, Детский Мир
+udp://@239.255.0.35:5500
+#EXTINF:0, Карусель
+udp://@239.255.0.114:5500
+#EXTINF:0, Мульт
+udp://@239.255.0.121:5500
+#EXTINF:0, Мультимания
+udp://@239.255.0.221:5500
+#EXTINF:0, Радость Моя
+udp://@239.255.0.193:5500
+#EXTINF:0, Рыжий
+udp://@239.255.0.56:5500
+#EXTINF:0,Детский
+udp://@239.255.2.47:5500
+#EXTINF:0,Disney
+udp://@239.255.2.57:5500
