@@ -25,5 +25,5 @@ goo.gl/e42diH
 raw.githubusercontent.com/LetItCode/mgts-iptv/master/news.m3u
 goo.gl/4hEIds
 
-https://raw.githubusercontent.com/LetItCode/mgts-iptv/master/sport.m3u
+raw.githubusercontent.com/LetItCode/mgts-iptv/master/sport.m3u
 goo.gl/WMWgUG
