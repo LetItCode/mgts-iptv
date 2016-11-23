@@ -1,35 +1,35 @@
 #EXTM3U
-#EXTINF:0, Канал 2x2
+#EXTINF:276, Канал 2x2
 udp://@239.255.2.115:5500
-#EXTINF:0, Cartoon Network
+#EXTINF:211, Cartoon Network
 udp://@239.255.0.106:5500
-#EXTINF:0, Nickelodeon HD
+#EXTINF:1391, Nickelodeon HD
 udp://@239.255.0.162:5500
-#EXTINF:0, Baby TV
+#EXTINF:300027, Baby TV
 udp://@239.255.0.254:5500
-#EXTINF:0, Gulli
+#EXTINF:300082, Gulli
 udp://@239.255.0.242:5500
-#EXTINF:0, JimJam
+#EXTINF:100049, JimJam
 udp://@239.255.0.31:5500
-#EXTINF:0, Nick Jr
+#EXTINF:1603, Nick Jr
 udp://@239.255.0.212:5500
 #EXTINF:100054, TiJi
 udp://@239.255.0.145:5500
-#EXTINF:0, Детский Мир
+#EXTINF:216, Детский Мир
 udp://@239.255.0.35:5500
-#EXTINF:0, Карусель
+#EXTINF:300007, Карусель
 udp://@239.255.0.114:5500
-#EXTINF:0, Мульт
+#EXTINF:1825, Мульт
 udp://@239.255.0.121:5500
-#EXTINF:0, Мультимания
+#EXTINF:300012, Мультимания
 udp://@239.255.0.221:5500
-#EXTINF:0, Радость Моя
+#EXTINF:595, Радость Моя
 udp://@239.255.0.193:5500
-#EXTINF:0, Рыжий
+#EXTINF:2006, Рыжий
 udp://@239.255.0.56:5500
-#EXTINF:0,Детский
+#EXTINF:300020,Детский канал
 udp://@239.255.2.47:5500
-#EXTINF:0,Disney
+#EXTINF:100055,Disney Channel
 udp://@239.255.2.57:5500
 
 #EXTINF:0, Discovery Science HD
