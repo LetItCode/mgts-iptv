@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, 2x2
+#EXTINF:0, Канал 2x2
 udp://@239.255.2.115:5500
 #EXTINF:0, Cartoon Network
 udp://@239.255.0.106:5500
@@ -11,9 +11,9 @@ udp://@239.255.0.254:5500
 udp://@239.255.0.242:5500
 #EXTINF:0, JimJam
 udp://@239.255.0.31:5500
-#EXTINF:0, Nick Jr.
+#EXTINF:0, Nick Jr
 udp://@239.255.0.212:5500
-#EXTINF:0, TiJi
+#EXTINF:100054, TiJi
 udp://@239.255.0.145:5500
 #EXTINF:0, Детский Мир
 udp://@239.255.0.35:5500
