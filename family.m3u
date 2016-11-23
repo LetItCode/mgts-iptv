@@ -1,5 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1,Домашний
+#EXTINF:-1 group-title="Семейные",Домашний
 udp://@239.255.2.63:5500
 #EXTINF:-1 group-title="Семейные",Shop 24
 udp://@239.255.0.110:5500
