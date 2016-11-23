@@ -1,3 +1,6 @@
+raw.githubusercontent.com/LetItCode/mgts-iptv/master/all.m3u
+goo.gl/zk5pSv
+
 raw.githubusercontent.com/LetItCode/mgts-iptv/master/children.m3u
 goo.gl/IQpDvZ
 
