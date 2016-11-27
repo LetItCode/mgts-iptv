@@ -1,46 +1,46 @@
 #EXTM3U
-#EXTINF:276, Канал 2x2
+#EXTINF:276 group-title="Детское", Канал 2x2
 udp://@239.255.2.115:5500
-#EXTINF:211, Cartoon Network
+#EXTINF:211 group-title="Детское", Cartoon Network
 udp://@239.255.0.106:5500
-#EXTINF:1391, Nickelodeon HD
+#EXTINF:1391 group-title="Детское", Nickelodeon HD
 udp://@239.255.0.162:5500
-#EXTINF:300027, Baby TV
+#EXTINF:300027 group-title="Детское", Baby TV
 udp://@239.255.0.254:5500
-#EXTINF:300082, Gulli
+#EXTINF:300082 group-title="Детское", Gulli
 udp://@239.255.0.242:5500
-#EXTINF:100049, JimJam
+#EXTINF:100049 group-title="Детское", JimJam
 udp://@239.255.0.31:5500
-#EXTINF:1603, Nick Jr
+#EXTINF:1603 group-title="Детское", Nick Jr
 udp://@239.255.0.212:5500
-#EXTINF:100054, TiJi
+#EXTINF:100054 group-title="Детское", Tiji
 udp://@239.255.0.145:5500
-#EXTINF:216, Детский Мир
+#EXTINF:216 group-title="Детское", Детский Мир
 udp://@239.255.0.35:5500
-#EXTINF:300007, Карусель
+#EXTINF:300007 group-title="Детское", Карусель
 udp://@239.255.0.114:5500
-#EXTINF:1825, Мульт
+#EXTINF:1825 group-title="Детское", Мульт
 udp://@239.255.0.121:5500
-#EXTINF:300012, Мультимания
+#EXTINF:300012 group-title="Детское", Мультимания
 udp://@239.255.0.221:5500
-#EXTINF:595, Радость Моя
+#EXTINF:595 group-title="Детское", Радость Моя
 udp://@239.255.0.193:5500
-#EXTINF:2006, Рыжий
+#EXTINF:2006 group-title="Детское", Рыжий
 udp://@239.255.0.56:5500
-#EXTINF:300020,Детский канал
+#EXTINF:300020 group-title="Детское", Детский канал
 udp://@239.255.2.47:5500
-#EXTINF:100055,Disney Channel
+#EXTINF:100055 group-title="Детское", Disney Channel
 udp://@239.255.2.57:5500
 
-#EXTINF:0, Discovery Science HD
+#EXTINF:224, Discovery Science
 udp://@239.255.0.178:5500
-#EXTINF:0, Travel + Adventure HD
+#EXTINF:1521, Travel+Adventure HD
 udp://@239.255.0.177:5500
-#EXTINF:0, Animal Planet HD
+#EXTINF:300107, Animal Planet HD
 udp://@239.255.0.161:5500
-#EXTINF:0, National Geographic HD
+#EXTINF:300050, National Geographic HD
 udp://@239.255.0.197:5500
-#EXTINF:0, Бобер
+#EXTINF:2035, Бобер
 udp://@239.255.0.149:5500
 #EXTINF:0, 24 DOC
 udp://@239.255.0.133:5500
